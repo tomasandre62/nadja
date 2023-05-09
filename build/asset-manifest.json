@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nadja/build/static/css/main.d534c733.css",
-    "main.js": "/nadja/build/static/js/main.06d15848.js",
+    "main.css": "/nadja/build/static/css/main.e5e9de82.css",
+    "main.js": "/nadja/build/static/js/main.288dbb81.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
     "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
@@ -16,12 +16,12 @@
     "static/media/insomnio.jpg": "/nadja/build/static/media/insomnio.49934bd12910591d3d3e.jpg",
     "static/media/logo.png": "/nadja/build/static/media/logo.d0af37c7aa66c3c141d0.png",
     "index.html": "/nadja/build/index.html",
-    "main.d534c733.css.map": "/nadja/build/static/css/main.d534c733.css.map",
-    "main.06d15848.js.map": "/nadja/build/static/js/main.06d15848.js.map",
+    "main.e5e9de82.css.map": "/nadja/build/static/css/main.e5e9de82.css.map",
+    "main.288dbb81.js.map": "/nadja/build/static/js/main.288dbb81.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d534c733.css",
-    "static/js/main.06d15848.js"
+    "static/css/main.e5e9de82.css",
+    "static/js/main.288dbb81.js"
   ]
 }

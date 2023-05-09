@@ -5,12 +5,14 @@ import reportWebVitals from './reportWebVitals';
 import ArtList from './listaArte';
 import '../src/listaArte.css'
 import About from './About';
+import Footer from './footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Fragment>
     <About/>
     <ArtList />
+    <Footer/>
   </Fragment>
 
 );

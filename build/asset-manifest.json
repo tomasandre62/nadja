@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nadja/build/static/css/main.d534c733.css",
+    "main.js": "/nadja/build/static/js/main.06d15848.js",
+    "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
+    "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
+    "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
+    "static/media/yosoyyo.jpg": "/nadja/build/static/media/yosoyyo.8e91a97a15d5d1044706.jpg",
+    "static/media/ilusion.jpg": "/nadja/build/static/media/ilusion.6b8fe1672fccdac3b1f8.jpg",
+    "static/media/mimonalisa.jpg": "/nadja/build/static/media/mimonalisa.3b77a6e5b6317ebf0944.jpg",
+    "static/media/sebastian.jpg": "/nadja/build/static/media/sebastian.8b2851248c8066c56cb5.jpg",
+    "static/media/calizcorola.jpg": "/nadja/build/static/media/calizcorola.1435d45fec7d45dd5618.jpg",
+    "static/media/desdemiventana.jpg": "/nadja/build/static/media/desdemiventana.9905307770fb51c885ee.jpg",
+    "static/media/lluvia.jpg": "/nadja/build/static/media/lluvia.dbe3327f26fe343b2186.jpg",
+    "static/media/lasolas.jpg": "/nadja/build/static/media/lasolas.8c149e881d5fa4de9b72.jpg",
+    "static/media/insomnio.jpg": "/nadja/build/static/media/insomnio.49934bd12910591d3d3e.jpg",
+    "static/media/logo.png": "/nadja/build/static/media/logo.d0af37c7aa66c3c141d0.png",
+    "index.html": "/nadja/build/index.html",
+    "main.d534c733.css.map": "/nadja/build/static/css/main.d534c733.css.map",
+    "main.06d15848.js.map": "/nadja/build/static/js/main.06d15848.js.map",
+    "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d534c733.css",
+    "static/js/main.06d15848.js"
+  ]
+}

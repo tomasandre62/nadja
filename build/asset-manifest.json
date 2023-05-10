@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nadja/build/static/css/main.e5e9de82.css",
-    "main.js": "/nadja/build/static/js/main.288dbb81.js",
+    "main.css": "/nadja/build/static/css/main.b6d8e6f4.css",
+    "main.js": "/nadja/build/static/js/main.825ce92e.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
     "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
@@ -14,14 +14,17 @@
     "static/media/lluvia.jpg": "/nadja/build/static/media/lluvia.dbe3327f26fe343b2186.jpg",
     "static/media/lasolas.jpg": "/nadja/build/static/media/lasolas.8c149e881d5fa4de9b72.jpg",
     "static/media/insomnio.jpg": "/nadja/build/static/media/insomnio.49934bd12910591d3d3e.jpg",
-    "static/media/logo.png": "/nadja/build/static/media/logo.d0af37c7aa66c3c141d0.png",
+    "static/media/portada.jpg": "/nadja/build/static/media/portada.99a7153069dd369295d7.jpg",
+    "static/media/firma.png": "/nadja/build/static/media/firma.00a842b0b13065380290.png",
+    "static/media/loguito.png": "/nadja/build/static/media/loguito.4c086f606191ba048f72.png",
+    "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
-    "main.e5e9de82.css.map": "/nadja/build/static/css/main.e5e9de82.css.map",
-    "main.288dbb81.js.map": "/nadja/build/static/js/main.288dbb81.js.map",
+    "main.b6d8e6f4.css.map": "/nadja/build/static/css/main.b6d8e6f4.css.map",
+    "main.825ce92e.js.map": "/nadja/build/static/js/main.825ce92e.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5e9de82.css",
-    "static/js/main.288dbb81.js"
+    "static/css/main.b6d8e6f4.css",
+    "static/js/main.825ce92e.js"
   ]
 }

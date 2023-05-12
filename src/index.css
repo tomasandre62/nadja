@@ -15,3 +15,17 @@ code {
 a {
   text-decoration: none;
 }
+
+.gale {
+  width: 100%;
+  /* Ancho completo */
+  height: 100%;
+  /* Altura completa */
+  object-fit: cover;
+  /* Ajustar la imagen para llenar el contenedor sin deformarse */
+  padding: 0;
+}
+
+.sobre:hover {
+  filter: brightness(120%);
+}

@@ -29,3 +29,6 @@ a {
 .sobre:hover {
   filter: brightness(120%);
 }
+.dere{
+  max-height: 330px;; 
+}

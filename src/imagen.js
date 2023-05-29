@@ -17,7 +17,7 @@ function Imagen({ ruta }) {
     <>
       <img src={ruta} alt="Imagen" className="sobre gale" onClick={abrirModal} />
 
-      <Modal show={mostrarModal} onHide={cerrarModal} size='xl'>
+      <Modal show={mostrarModal} onHide={cerrarModal} size='lg'>
         <Col>
           <img src={ruta} alt="Imagen en grande" className="img-fluid" />
         </Col>

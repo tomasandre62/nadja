@@ -6,7 +6,6 @@ import ArtList from './listaArte';
 import './listaArte.css'
 import About from './About';
 import Footer from './footer';
-import Galeria from './galeria';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
@@ -15,7 +14,6 @@ root.render(
   <Fragment>
     <About/>
     <ArtList />
-    <Galeria/>
     <Footer/>
   </Fragment>
 

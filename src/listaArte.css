@@ -47,3 +47,10 @@ img.grayscale:hover {
 .logo {
     transition: opacity 1s ease-in-out;
 }
+.NombreList{
+    text-decoration: none;
+    color: white;
+}
+.NombreList:hover{
+    color: sandybrown;
+}

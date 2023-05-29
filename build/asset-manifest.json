@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nadja/build/static/css/main.176090fd.css",
-    "main.js": "/nadja/build/static/js/main.2e262fc6.js",
+    "main.js": "/nadja/build/static/js/main.9ef0c6c6.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
     "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
@@ -19,23 +19,22 @@
     "static/media/portada.jpg": "/nadja/build/static/media/portada.99a7153069dd369295d7.jpg",
     "static/media/Imagen15.jpg": "/nadja/build/static/media/Imagen15.caece204818611ddb00a.jpg",
     "static/media/Imagen16.jpg": "/nadja/build/static/media/Imagen16.4fb5942bebd246079010.jpg",
+    "static/media/About.png": "/nadja/build/static/media/About.401242967f59af39fa55.png",
     "static/media/Imagen14.jpg": "/nadja/build/static/media/Imagen14.bdc80274d6ff2a588922.jpg",
     "static/media/1.jpg": "/nadja/build/static/media/1.98a246d1f96a221e7d57.jpg",
-    "static/media/firma.png": "/nadja/build/static/media/firma.00a842b0b13065380290.png",
     "static/media/Imagen2.jpg": "/nadja/build/static/media/Imagen2.b4b5a4d95c347e1896a9.jpg",
     "static/media/Imagen6.jpg": "/nadja/build/static/media/Imagen6.3ed3e57ddac70b6903b8.jpg",
     "static/media/Imagen3.jpg": "/nadja/build/static/media/Imagen3.5b426cfc1b902320dc81.jpg",
     "static/media/Imagen5.jpg": "/nadja/build/static/media/Imagen5.bac26935604972362f26.jpg",
     "static/media/Imagen4.jpg": "/nadja/build/static/media/Imagen4.7b8370558842cfeb9534.jpg",
-    "static/media/loguito.png": "/nadja/build/static/media/loguito.4c086f606191ba048f72.png",
     "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
     "main.176090fd.css.map": "/nadja/build/static/css/main.176090fd.css.map",
-    "main.2e262fc6.js.map": "/nadja/build/static/js/main.2e262fc6.js.map",
+    "main.9ef0c6c6.js.map": "/nadja/build/static/js/main.9ef0c6c6.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.176090fd.css",
-    "static/js/main.2e262fc6.js"
+    "static/js/main.9ef0c6c6.js"
   ]
 }

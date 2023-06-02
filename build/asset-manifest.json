@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nadja/build/static/css/main.00480b2e.css",
-    "main.js": "/nadja/build/static/js/main.32593b96.js",
+    "main.css": "/nadja/build/static/css/main.c5e88f02.css",
+    "main.js": "/nadja/build/static/js/main.0a7a752b.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/tres.fw.png": "/nadja/build/static/media/tres.fw.56f78ac5c7e5870cf22b.png",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
@@ -25,12 +25,12 @@
     "static/media/About.png": "/nadja/build/static/media/About.401242967f59af39fa55.png",
     "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
-    "main.00480b2e.css.map": "/nadja/build/static/css/main.00480b2e.css.map",
-    "main.32593b96.js.map": "/nadja/build/static/js/main.32593b96.js.map",
+    "main.c5e88f02.css.map": "/nadja/build/static/css/main.c5e88f02.css.map",
+    "main.0a7a752b.js.map": "/nadja/build/static/js/main.0a7a752b.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00480b2e.css",
-    "static/js/main.32593b96.js"
+    "static/css/main.c5e88f02.css",
+    "static/js/main.0a7a752b.js"
   ]
 }

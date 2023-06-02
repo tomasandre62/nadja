@@ -61,3 +61,10 @@ a {
     padding: 0;
   }
 }
+.none{
+  text-decoration: none;
+  color: white;
+}
+.none:hover{
+  color:coral;
+}

@@ -25,7 +25,7 @@ function ArtList() {
                 <Col className='artlist text-lg text-sm' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={soyyo} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                        <Link to="/YoSoyYo"><h1 class="display-6">YO SOY YO</h1></Link>
+                        <Link to="/YoSoyYo"><h1 class="display-6 none">YO SOY YO</h1></Link>
 
                     </Col>
                 </Col>

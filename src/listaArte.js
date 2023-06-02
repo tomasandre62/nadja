@@ -13,7 +13,9 @@ import olas from './imagenes/lasolas.jpg'
 import insomnio from './imagenes/insomnio.jpg'
 import monalisa from './imagenes/mimonalisa.jpg'
 import caliz from './imagenes/calizcorola.jpg'
-import Galeria from './galeria';
+import './listaArte.css'
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 function ArtList() {
     return (
@@ -22,31 +24,17 @@ function ArtList() {
                 <Col className='artlist text-lg text-sm' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={soyyo} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                        <a className='NombreList' data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            <h1>YO SOY YO</h1>
-                        </a>
+                        <h1 class="display-6">YO SOY YO</h1>
                     </Col>
                 </Col>
-            </Row>
-            <Row>
-                <div style={{ padding: "0" }} class="collapse" id="collapseExample">
-                    <Galeria />
-                </div>
             </Row>
             <Row>
                 <Col className='artlist' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={sebastian} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                    <a className='NombreList' data-bs-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            <h1>SEBASTIAN</h1>
-                        </a>
+                        <h1 class="display-6">SEBASTIAN</h1>
                     </Col>
                 </Col>
-            </Row>
-            <Row>
-                <div style={{ padding: "0" }} class="collapse" id="collapseExample1">
-                    <Galeria />
-                </div>
             </Row>
             <Row>
                 <Col className='artlist' style={{ position: 'relative', width: '100%' }}>

@@ -1,22 +1,21 @@
-import React, { Fragment } from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import reportWebVitals from './reportWebVitals';
-import ArtList from './listaArte';
-import './listaArte.css'
-import About from './About';
+import { BrowserRouter } from 'react-router-dom';
 import Footer from './footer';
-import 'bootstrap/dist/css/bootstrap.css';
+import About from './About';
+import App from './App';
+import './App.css';
+import './index.css';
+import ReactDOM from 'react-dom/client';
+import reportWebVitals from './reportWebVitals';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Fragment>
-    <About/>
-    <ArtList />
-    <Footer/>
-  </Fragment>
-
+  <BrowserRouter>
+    <About />
+    <App />
+    <Footer />
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function

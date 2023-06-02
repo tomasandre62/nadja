@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nadja/build/static/css/main.176090fd.css",
-    "main.js": "/nadja/build/static/js/main.9ef0c6c6.js",
+    "main.css": "/nadja/build/static/css/main.6c2965e7.css",
+    "main.js": "/nadja/build/static/js/main.39c98956.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
     "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
@@ -11,30 +11,19 @@
     "static/media/sebastian.jpg": "/nadja/build/static/media/sebastian.8b2851248c8066c56cb5.jpg",
     "static/media/calizcorola.jpg": "/nadja/build/static/media/calizcorola.1435d45fec7d45dd5618.jpg",
     "static/media/desdemiventana.jpg": "/nadja/build/static/media/desdemiventana.9905307770fb51c885ee.jpg",
-    "static/media/Imagen17.jpg": "/nadja/build/static/media/Imagen17.8a2b9ed478828fb98710.jpg",
     "static/media/lluvia.jpg": "/nadja/build/static/media/lluvia.dbe3327f26fe343b2186.jpg",
     "static/media/lasolas.jpg": "/nadja/build/static/media/lasolas.8c149e881d5fa4de9b72.jpg",
     "static/media/insomnio.jpg": "/nadja/build/static/media/insomnio.49934bd12910591d3d3e.jpg",
-    "static/media/Imagen7.jpg": "/nadja/build/static/media/Imagen7.74525c2799f88080a4a8.jpg",
     "static/media/portada.jpg": "/nadja/build/static/media/portada.99a7153069dd369295d7.jpg",
-    "static/media/Imagen15.jpg": "/nadja/build/static/media/Imagen15.caece204818611ddb00a.jpg",
-    "static/media/Imagen16.jpg": "/nadja/build/static/media/Imagen16.4fb5942bebd246079010.jpg",
     "static/media/About.png": "/nadja/build/static/media/About.401242967f59af39fa55.png",
-    "static/media/Imagen14.jpg": "/nadja/build/static/media/Imagen14.bdc80274d6ff2a588922.jpg",
-    "static/media/1.jpg": "/nadja/build/static/media/1.98a246d1f96a221e7d57.jpg",
-    "static/media/Imagen2.jpg": "/nadja/build/static/media/Imagen2.b4b5a4d95c347e1896a9.jpg",
-    "static/media/Imagen6.jpg": "/nadja/build/static/media/Imagen6.3ed3e57ddac70b6903b8.jpg",
-    "static/media/Imagen3.jpg": "/nadja/build/static/media/Imagen3.5b426cfc1b902320dc81.jpg",
-    "static/media/Imagen5.jpg": "/nadja/build/static/media/Imagen5.bac26935604972362f26.jpg",
-    "static/media/Imagen4.jpg": "/nadja/build/static/media/Imagen4.7b8370558842cfeb9534.jpg",
     "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
-    "main.176090fd.css.map": "/nadja/build/static/css/main.176090fd.css.map",
-    "main.9ef0c6c6.js.map": "/nadja/build/static/js/main.9ef0c6c6.js.map",
+    "main.6c2965e7.css.map": "/nadja/build/static/css/main.6c2965e7.css.map",
+    "main.39c98956.js.map": "/nadja/build/static/js/main.39c98956.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.176090fd.css",
-    "static/js/main.9ef0c6c6.js"
+    "static/css/main.6c2965e7.css",
+    "static/js/main.39c98956.js"
   ]
 }

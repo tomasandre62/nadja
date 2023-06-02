@@ -15,11 +15,11 @@ function Imagen({ ruta }) {
 
   return (
     <>
-      <img src={ruta} alt="Imagen" className="sobre gale" onClick={abrirModal} />
+      <img style={{backgroundColor:'#2D2B27'}} src={ruta} alt="Imagen" className="sobre gale" onClick={abrirModal} />
 
       <Modal show={mostrarModal} onHide={cerrarModal} size='lg'>
         <Col>
-          <img src={ruta} alt="Imagen en grande" className="img-fluid" />
+          <img style={{backgroundColor:'#2D2B27'}} src={ruta} alt="Imagen en grande" className="img-fluid" />
         </Col>
       </Modal>
     </>

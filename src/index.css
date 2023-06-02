@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #525659;
 }
 
 code {
@@ -29,6 +30,34 @@ a {
 .sobre:hover {
   filter: brightness(120%);
 }
-.dere{
-  max-height: 330px;; 
+
+.dere {
+  max-height: 330px;
+  ;
+}
+
+.pdere {
+  padding-right: 5;
+}
+
+.pizqui {
+  padding-left: 5;
+}
+
+.pcentro {
+  padding: 5;
+}
+
+@media (min-width: 576px) {
+  .pdere {
+    padding-right: 0;
+  }
+
+  .pizqui {
+    padding-left: 0;
+  }
+
+  .pcentro {
+    padding: 0;
+  }
 }

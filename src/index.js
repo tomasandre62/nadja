@@ -1,4 +1,4 @@
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, HashRouter } from 'react-router-dom';
 import Footer from './footer';
 import About from './About';
 import App from './App';
@@ -12,11 +12,12 @@ import './listaArte.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <About />
     <App />
     <Footer />
-  </BrowserRouter>
+  </HashRouter>
+
 );
 
 // If you want to start measuring performance in your app, pass a function

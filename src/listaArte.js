@@ -14,7 +14,8 @@ import insomnio from './imagenes/insomnio.jpg'
 import monalisa from './imagenes/mimonalisa.jpg'
 import caliz from './imagenes/calizcorola.jpg'
 import 'bootstrap/dist/css/bootstrap.css';
-import Nav from 'react-bootstrap/Nav';
+import { Link } from 'react-router-dom';
+
 
 
 function ArtList() {
@@ -24,8 +25,8 @@ function ArtList() {
                 <Col className='artlist text-lg text-sm' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={soyyo} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                    <Nav.Link href="/YoSoyYo"><h1 class="display-6">YO SOY YO</h1></Nav.Link>
-                        
+                        <Link to="/YoSoyYo"><h1 class="display-6">YO SOY YO</h1></Link>
+
                     </Col>
                 </Col>
             </Row>

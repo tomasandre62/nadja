@@ -2,7 +2,7 @@
   "name": "sitio-fotografa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tomasandre62.github.io/#/nadja/build",
+  "homepage": "https://tomasandre62.github.io/nadja/build",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",

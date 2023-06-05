@@ -1,5 +1,8 @@
+import { Container } from "react-bootstrap";
+
 function Footer() {
     return (
+        <Container fluid>
         <footer class="bg-dark text-center text-white">
             <div class="container p-4 pb-0">
                 <section class="mb-4">
@@ -13,9 +16,10 @@ function Footer() {
             </div>
             <div class="text-center p-3" style={{backgroundColor: 'rgba(0, 0, 0, 0.2)'}}>
                 © 2023 Copyright:
-                <a class="text-white" href="#">Datocomercial</a>
+                <a class="text-white" href="#"> Datocomercial</a>
             </div>
         </footer>
+        </Container>
     );
 }
 

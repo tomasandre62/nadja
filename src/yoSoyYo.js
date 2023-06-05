@@ -27,6 +27,7 @@ function SoyYo() {
         <Col className="pdere" sm={6} ><Imagen  className='alignnone size-full wp-image-7778' ruta={Tres} fluid /></Col>
         <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Reflejo} fluid /></Col>
       </Row>
+      <a href="#" class="btn-flotante">Volver</a>
       </Container>
   );
 }

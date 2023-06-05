@@ -7,7 +7,7 @@ import Sebamo1 from './imagenes/yosoyyo/sebamo1.fw.png'
 import Sebamo2 from './imagenes/yosoyyo/sebamo2.fw.png'
 import Cuadros1 from './imagenes/yosoyyo/cuadros1.fw.png'
 import Cuadros2 from './imagenes/yosoyyo/cuadros2.fw.png'
-import HeadVentana from './imagenes/yosoyyo/headVentana.fw.png'
+
 
 
 
@@ -30,9 +30,7 @@ function Sebastian() {
                 <Col className="pdere" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros1} fluid /></Col>
                 <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros2} fluid /></Col>
             </Row>
-            <Row>
-                <Col sm={12} ><Image style={{backgroundColor:'#2D2B27'}} className='alignnone size-full wp-image-7778' src={HeadVentana} fluid /></Col>
-            </Row>
+            <a href="#" class="btn-flotante">Volver</a>
         </Container>
     );
 }

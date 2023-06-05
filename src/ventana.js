@@ -19,6 +19,7 @@ function Ventana() {
                 <Col className="pdere" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros6} fluid /></Col>
                 <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros5} fluid /></Col>
             </Row>
+            <a href="#" class="btn-flotante">Volver</a>
         </Container>
     );
 }

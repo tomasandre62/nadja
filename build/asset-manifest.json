@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/nadja/build/static/css/main.03f61525.css",
-    "main.js": "/nadja/build/static/js/main.099c8e2f.js",
+    "main.css": "/nadja/build/static/css/main.71d3d002.css",
+    "main.js": "/nadja/build/static/js/main.eae3a26e.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
+    "static/media/ilusion5.fw.png": "/nadja/build/static/media/ilusion5.fw.7abfbe95dc57821575ce.png",
+    "static/media/paseocuadro1.fw.png": "/nadja/build/static/media/paseocuadro1.fw.ec21550286929d63ea3c.png",
     "static/media/tres.fw.png": "/nadja/build/static/media/tres.fw.56f78ac5c7e5870cf22b.png",
     "static/media/unatardedepaseo.jpg": "/nadja/build/static/media/unatardedepaseo.220313dcf341956c8cad.jpg",
     "static/media/arbolescuadros2.fw.png": "/nadja/build/static/media/arbolescuadros2.fw.ad78758f5eb985f29107.png",
     "static/media/arboles.jpg": "/nadja/build/static/media/arboles.1d050192d60f1a9fd739.jpg",
     "static/media/arbolescuadros1.fw.png": "/nadja/build/static/media/arbolescuadros1.fw.1a5a410e1331bef8ba75.png",
     "static/media/yosoyyo.jpg": "/nadja/build/static/media/yosoyyo.8e91a97a15d5d1044706.jpg",
+    "static/media/ilusion4.fw.png": "/nadja/build/static/media/ilusion4.fw.f2e25120e641a95c0a0b.png",
+    "static/media/Ilusioncuadro1.fw.png": "/nadja/build/static/media/Ilusioncuadro1.fw.84cc2e4afe5cd1d5f3f1.png",
+    "static/media/ilusion3.fw.png": "/nadja/build/static/media/ilusion3.fw.571b9da5f818ffcb04b9.png",
     "static/media/ilusion.jpg": "/nadja/build/static/media/ilusion.6b8fe1672fccdac3b1f8.jpg",
     "static/media/mimonalisa.jpg": "/nadja/build/static/media/mimonalisa.3b77a6e5b6317ebf0944.jpg",
     "static/media/sebastian.jpg": "/nadja/build/static/media/sebastian.8b2851248c8066c56cb5.jpg",
@@ -33,16 +38,18 @@
     "static/media/About.png": "/nadja/build/static/media/About.401242967f59af39fa55.png",
     "static/media/yoEscrito.fw.png": "/nadja/build/static/media/yoEscrito.fw.448e0cf99cd347fdfda7.png",
     "static/media/sebaEscrito.fw.png": "/nadja/build/static/media/sebaEscrito.fw.925640ea2909dab44976.png",
+    "static/media/Ilusioncuadro2.fw.png": "/nadja/build/static/media/Ilusioncuadro2.fw.456287354eb3bbaaf904.png",
+    "static/media/unatarde.fw.png": "/nadja/build/static/media/unatarde.fw.d5384ac676479acfa6ab.png",
     "static/media/headVentana.fw.png": "/nadja/build/static/media/headVentana.fw.080db3ba24cd023fcb45.png",
     "static/media/headArboles.fw.png": "/nadja/build/static/media/headArboles.fw.4ec85b21f4c54db6d333.png",
     "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
-    "main.03f61525.css.map": "/nadja/build/static/css/main.03f61525.css.map",
-    "main.099c8e2f.js.map": "/nadja/build/static/js/main.099c8e2f.js.map",
+    "main.71d3d002.css.map": "/nadja/build/static/css/main.71d3d002.css.map",
+    "main.eae3a26e.js.map": "/nadja/build/static/js/main.eae3a26e.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03f61525.css",
-    "static/js/main.099c8e2f.js"
+    "static/css/main.71d3d002.css",
+    "static/js/main.eae3a26e.js"
   ]
 }

@@ -59,7 +59,7 @@ function ArtList() {
                 <Col className='artlist' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={paseo} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                        <h1 class="display-6">UNA TARDE DE PASEO</h1>
+                    <Link to="/UnaTardeDePaseo"><h1 class="display-6 none">UNA TARDE DE PASEO</h1></Link>
                     </Col>
                 </Col>
             </Row>
@@ -67,7 +67,7 @@ function ArtList() {
                 <Col className='artlist' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={ilusion} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                        <h1 class="display-6">ILUSIÓN</h1>
+                    <Link to="/Ilusion"><h1 class="display-6 none">ILUSIÓN</h1></Link>
                     </Col>
                 </Col>
             </Row>

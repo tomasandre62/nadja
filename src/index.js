@@ -1,4 +1,4 @@
-import { BrowserRouter, HashRouter } from 'react-router-dom';
+import { HashRouter, useLocation  } from 'react-router-dom';
 import Footer from './footer';
 import About from './About';
 import App from './App';
@@ -7,12 +7,22 @@ import './index.css';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import './listaArte.css'
+import React, { useEffect } from "react";
 
+const ScrollToTop = () => {
+  const { pathname } = useLocation();
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+};
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <HashRouter>
+    <ScrollToTop/>
     <About />
     <App />
     <Footer />

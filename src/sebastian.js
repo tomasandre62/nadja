@@ -7,11 +7,11 @@ import Sebamo1 from './imagenes/yosoyyo/sebamo1.fw.png'
 import Sebamo2 from './imagenes/yosoyyo/sebamo2.fw.png'
 import Cuadros1 from './imagenes/yosoyyo/cuadros1.fw.png'
 import Cuadros2 from './imagenes/yosoyyo/cuadros2.fw.png'
+import { Link } from "react-router-dom";
 
-
-
-
-
+const handleGoBack = () => {
+    window.history.go(-1);
+};
 
 
 function Sebastian() {
@@ -27,10 +27,10 @@ function Sebastian() {
                 <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Sebamo2} fluid /></Col>
             </Row>
             <Row>
-                <Col className="pdere" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros1} fluid /></Col>
-                <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros2} fluid /></Col>
+                <Col className="pdere" sm={6}  ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros1} fluid /></Col>
+                <Col className="pizqui Bg" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Cuadros2} fluid /></Col>
             </Row>
-            <a href="#" class="btn-flotante">Volver</a>
+            <Link className="btn-flotante" onClick={handleGoBack}>Volver</Link>
         </Container>
     );
 }

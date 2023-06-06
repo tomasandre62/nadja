@@ -8,27 +8,30 @@ import Yellow from './imagenes/yosoyyo/yellow.fw.png'
 import White from './imagenes/yosoyyo/White.fw.png'
 import Tres from './imagenes/yosoyyo/tres.fw.png'
 import Reflejo from './imagenes/yosoyyo/Imagen17.jpg'
+import { Link } from "react-router-dom";
 
-
+const handleGoBack = () => {
+  window.history.go(-1);
+};
 
 function SoyYo() {
   return (
     <Container fluid>
       <Row>
-        <Col className="pdere" sm={5}><Image style={{backgroundColor:'#2D2B27'}} className='alignnone size-full wp-image-7778' src={YoEscrito} fluid /></Col>
-        <Col className="pizqui" sm={7}><Imagen  className='alignnone size-full wp-image-7778' ruta={Mosaico} fluid /></Col>
+        <Col className="pdere" sm={5}><Image style={{ backgroundColor: '#2D2B27' }} className='alignnone size-full wp-image-7778' src={YoEscrito} fluid /></Col>
+        <Col className="pizqui" sm={7}><Imagen className='alignnone size-full wp-image-7778' ruta={Mosaico} fluid /></Col>
       </Row>
       <Row>
-        <Col className="pdere" sm={4} ><Imagen  className='alignnone size-full wp-image-7778' ruta={Black} fluid /></Col>
-        <Col className="pcentro" sm={4} ><Imagen  className='alignnone size-full wp-image-7778' ruta={Yellow} fluid /></Col>
-        <Col className="pizqui" sm={4} ><Imagen  className='alignnone size-full wp-image-7778' ruta={White} fluid /></Col>
+        <Col className="pdere" sm={4} ><Imagen className='alignnone size-full wp-image-7778' ruta={Black} fluid /></Col>
+        <Col className="pcentro" sm={4} ><Imagen className='alignnone size-full wp-image-7778' ruta={Yellow} fluid /></Col>
+        <Col className="pizqui" sm={4} ><Imagen className='alignnone size-full wp-image-7778' ruta={White} fluid /></Col>
       </Row>
       <Row>
-        <Col className="pdere" sm={6} ><Imagen  className='alignnone size-full wp-image-7778' ruta={Tres} fluid /></Col>
+        <Col className="pdere" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Tres} fluid /></Col>
         <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={Reflejo} fluid /></Col>
       </Row>
-      <a href="#" class="btn-flotante">Volver</a>
-      </Container>
+      <Link className="btn-flotante" onClick={handleGoBack}>Volver</Link>
+    </Container>
   );
 }
 

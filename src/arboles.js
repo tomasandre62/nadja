@@ -4,11 +4,11 @@ import Imagen from './imagen';
 import HeadArboles from './imagenes/yosoyyo/headArboles.fw.png'
 import ArbolCuadro1 from './imagenes/yosoyyo/arbolescuadros1.fw.png'
 import ArbolCuadro2 from './imagenes/yosoyyo/arbolescuadros2.fw.png'
+import { Link } from "react-router-dom";
 
-
-
-
-
+const handleGoBack = () => {
+    window.history.go(-1);
+};
 
 
 function Arboles() {
@@ -21,7 +21,7 @@ function Arboles() {
                 <Col className="pdere" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={ArbolCuadro1} fluid /></Col>
                 <Col className="pizqui" sm={6} ><Imagen className='alignnone size-full wp-image-7778' ruta={ArbolCuadro2} fluid /></Col>
             </Row>
-            <a href="#" class="btn-flotante">Volver</a>
+            <Link className="btn-flotante" onClick={handleGoBack}>Volver</Link>
         </Container>
     );
 }

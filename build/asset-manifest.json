@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nadja/build/static/css/main.71d3d002.css",
-    "main.js": "/nadja/build/static/js/main.eae3a26e.js",
+    "main.js": "/nadja/build/static/js/main.c6c3bc85.js",
     "static/js/787.b2dd612c.chunk.js": "/nadja/build/static/js/787.b2dd612c.chunk.js",
     "static/media/ilusion5.fw.png": "/nadja/build/static/media/ilusion5.fw.7abfbe95dc57821575ce.png",
     "static/media/paseocuadro1.fw.png": "/nadja/build/static/media/paseocuadro1.fw.ec21550286929d63ea3c.png",
@@ -22,6 +22,7 @@
     "static/media/mosaicoseba.fw.png": "/nadja/build/static/media/mosaicoseba.fw.92cd3124a0b7b970eb93.png",
     "static/media/yellow.fw.png": "/nadja/build/static/media/yellow.fw.4bacc76b46c1a7bc4eab.png",
     "static/media/desdemiventana.jpg": "/nadja/build/static/media/desdemiventana.9905307770fb51c885ee.jpg",
+    "static/media/lluvia1.fw.png": "/nadja/build/static/media/lluvia1.fw.1bad0de30c0bd4cae85b.png",
     "static/media/sebamo1.fw.png": "/nadja/build/static/media/sebamo1.fw.56a7862a8651224712d9.png",
     "static/media/Imagen17.jpg": "/nadja/build/static/media/Imagen17.02088c8c27d42ab15a06.jpg",
     "static/media/mosaico.png": "/nadja/build/static/media/mosaico.f0b0922d01958e2e93df.png",
@@ -45,11 +46,11 @@
     "static/media/logo.png": "/nadja/build/static/media/logo.fdc875cccda440a8393c.png",
     "index.html": "/nadja/build/index.html",
     "main.71d3d002.css.map": "/nadja/build/static/css/main.71d3d002.css.map",
-    "main.eae3a26e.js.map": "/nadja/build/static/js/main.eae3a26e.js.map",
+    "main.c6c3bc85.js.map": "/nadja/build/static/js/main.c6c3bc85.js.map",
     "787.b2dd612c.chunk.js.map": "/nadja/build/static/js/787.b2dd612c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71d3d002.css",
-    "static/js/main.eae3a26e.js"
+    "static/js/main.c6c3bc85.js"
   ]
 }

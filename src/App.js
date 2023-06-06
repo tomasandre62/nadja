@@ -7,11 +7,13 @@ import Ventana from './ventana';
 import Arboles from './arboles';
 import Paseo from './paseo';
 import Ilusion from './ilusion';
+import Lluvia from './lluvia';
 
 
 const App = () => {
   return (
     <Routes>
+      <Route path='/LLuvia' element={<Lluvia />} />
       <Route path='/Ilusion' element={<Ilusion />} />
       <Route path='/UnaTardeDePaseo' element={<Paseo />} />
       <Route path='/LosArboles' element={<Arboles />} />

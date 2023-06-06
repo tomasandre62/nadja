@@ -75,7 +75,7 @@ function ArtList() {
                 <Col className='artlist' style={{ position: 'relative', width: '100%' }}>
                     <Image className='alignnone grayscale size-full wp-image-7778' src={lluvia} fluid />
                     <Col style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-                        <h1 class="display-6">LLUVIA</h1>
+                    <Link to="/Lluvia"><h1 class="display-6 none">LLUVIA</h1></Link>
                     </Col>
                 </Col>
             </Row>
